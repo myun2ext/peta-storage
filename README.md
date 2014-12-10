@@ -6,3 +6,4 @@ Statistics
 * Twitter
 * Weather
 * Traffic
+* Bookmarks
